@@ -1,4 +1,4 @@
-import Example from './tutorial/02-useEffect/02-useEffect-basics';
+import Example from './tutorial/02-useEffect/03-multiple-effects';
 
 function App() {
   return (
