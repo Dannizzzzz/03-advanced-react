@@ -1,4 +1,4 @@
-import Example from './tutorial/03-conditional-rendering/05-short-circuit-examples';
+import Example from './tutorial/03-conditional-rendering/06-toggle-challenge';
 
 function App() {
   return (
