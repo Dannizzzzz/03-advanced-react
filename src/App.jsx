@@ -1,4 +1,4 @@
-import Example from './tutorial/03-conditional-rendering/06-toggle-challenge';
+import Example from './tutorial/03-conditional-rendering/07-user-challenge';
 
 function App() {
   return (
