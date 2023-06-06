@@ -1,4 +1,4 @@
-import Example from './tutorial/03-conditional-rendering/07-user-challenge';
+import Example from './tutorial/02-useEffect/05-cleanup-function';
 
 function App() {
   return (
